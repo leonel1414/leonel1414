@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Leonel+Girett" alt="Leonel Girett animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Leonel+Girett+👨‍💻" alt="Leonel Girett animado" />
 </p>
 
 <p align="center">
