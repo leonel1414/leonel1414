@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hola, soy Leonel</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Leonel+Girett" alt="Leonel Girett animado" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Lover-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
