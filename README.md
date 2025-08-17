@@ -1,10 +1,19 @@
-<h1 align="center" style="font-size:2.5em;">
-  <span style="color:#FF0000;">L</span>eonel <span style="color:#FF0000;">G</span>irett
-</h1>
+<h1 align="center">🚀 LEONEL GIRETT 🚀</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Técnico%20en%20Programación-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Técnico%20en%20Análisis%20de%20Sistemas-1572B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sysadmin%20en%20acción-47A248?style=for-the-badge" />
+</p>
+
+---
 
 <p align="center">
   <b>
-    Técnico en Programación y Técnico en Análisis de Sistemas, actualmente desempeñándome como Sysadmin. Apasionado por la tecnología y la mejora continua, disfruto aprender nuevas herramientas y enfrentar desafíos que potencien mi crecimiento profesional. En mi tiempo libre me capacito, exploro tendencias IT y colaboro en proyectos que aportan valor a la comunidad.
+    💻 Soy técnico en programación y análisis de sistemas, actualmente trabajando como sysadmin.<br>
+    🌱 Apasionado por la tecnología y el aprendizaje constante.<br>
+    🧠 Me motiva enfrentar nuevos desafíos, explorar tendencias IT y colaborar en proyectos que aporten valor.<br>
+    📚 En mi tiempo libre me capacito y busco crecer profesionalmente cada día.
   </b>
 </p>
 
