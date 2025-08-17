@@ -9,6 +9,7 @@
 🤝 **Colaboración en equipo y resolución creativa de problemas**  
 🎯 **Transformo la curiosidad en soluciones funcionales y eficientes**
 </p>
+
 ---
 
 ## 🚀 Tecnologías
