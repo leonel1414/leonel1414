@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/👋%20Hola%2C%20soy%20Leonel%20Girett-%23F700FF.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Leonel%20Girett&color=F700FF&style=for-the-badge&logo=github" alt="Leonel Girett" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Técnico%20en%20Programación-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Técnico%20en%20Análisis%20de%20Sistemas-1793D1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sysadmin%20en%20acción-47A248?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Siempre%20aprendiendo-F7DF1E?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>💻 Técnico en Programación y Técnico en Análisis de Sistemas.<br>
-  🛠️ Actualmente trabajando como Sysadmin.<br>
-  🚀 En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías.</b>
+<p align="center" style="font-size:1.3em;">
+  <b>💻 Técnico en Programación &bull; Técnico en Análisis de Sistemas</b><br>
+  <b>🛠️ Actualmente trabajando como Sysadmin</b><br>
+  <b>🚀 En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías</b>
 </p>
 
 ---
