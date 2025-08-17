@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Leonel%20Girett&color=F700FF&style=for-the-badge&logo=github" alt="Leonel Girett" />
-</p>
+<h1 align="center" style="font-size:2.5em;">
+  <span style="color:#FF0000;">L</span>eonel <span style="color:#FF0000;">G</span>irett
+</h1>
 
-<p align="center" style="font-size:1.3em;">
-  <b>💻 Técnico en Programación &bull; Técnico en Análisis de Sistemas</b><br>
-  <b>🛠️ Actualmente trabajando como Sysadmin</b><br>
-  <b>🚀 En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías</b>
+<p align="center">
+  <b>
+    Técnico en Programación y Técnico en Análisis de Sistemas, actualmente desempeñándome como Sysadmin. Apasionado por la tecnología y la mejora continua, disfruto aprender nuevas herramientas y enfrentar desafíos que potencien mi crecimiento profesional. En mi tiempo libre me capacito, exploro tendencias IT y colaboro en proyectos que aportan valor a la comunidad.
+  </b>
 </p>
 
 ---
@@ -62,4 +62,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:TU-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
