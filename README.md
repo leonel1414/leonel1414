@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&color=FF5733,FF8C00,FFC300&center=true&vCenter=true&width=600&height=80&lines=🚀+LEONEL+GIRETT+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&color=FF5733,FF8C00,FFC300,FF5733&center=true&vCenter=true&width=700&height=90&lines=🚀+LEONEL+GIRETT+🚀" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,9 @@
 ---
 
 <p align="center">
-💻 Técnico en programación y análisis de sistemas | 🌱 Apasionado por la tecnología | 🧠 Motivado por desafíos | 📚 Aprendizaje constante
+💻 Apasionado por la tecnología, creativo en la resolución de problemas y siempre en busca de aprender lo último en IT.  
+🌱 Me motiva explorar nuevas tendencias, optimizar sistemas y colaborar en proyectos que generen impacto.  
+🚀 Creo en el crecimiento constante y en transformar la curiosidad en soluciones innovadoras que marquen la diferencia.
 </p>
 
 ---
