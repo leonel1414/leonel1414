@@ -1,17 +1,26 @@
-<h1 align="center">👋 Hola, soy Leonel Girett</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/👋%20Hola%2C%20soy%20Leonel%20Girett-%23F700FF.svg?style=for-the-badge&logoColor=white" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Lover-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SysAdmin-Expert-2C8EBB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Técnico%20en%20Programación-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Técnico%20en%20Análisis%20de%20Sistemas-1793D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sysadmin%20en%20acción-47A248?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Siempre%20aprendiendo-F7DF1E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>💻 Técnico en Programación y Técnico en Análisis de Sistemas.<br>
+  🛠️ Actualmente trabajando como Sysadmin.<br>
+  🚀 En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías.</b>
 </p>
 
 ---
 
 <p align="center">
-  Técnico en Programación y Técnico en Análisis de Sistemas.<br>
-  Actualmente trabajando como Sysadmin.<br>
-  En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías.
+  <img src="https://img.shields.io/badge/Linux-Lover-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SysAdmin-Expert-2C8EBB?style=for-the-badge" />
 </p>
 
 ---
