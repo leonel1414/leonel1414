@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&color=FF5733,FF8C00,FFC300,FF5733&center=true&vCenter=true&width=700&height=90&lines=🚀+LEONEL+GIRETT+🚀" />
 </h1>
 
-<p align="center">
-💻 **Apasionado por la tecnología y la innovación**  
-🌱 **Siempre aprendiendo nuevas herramientas y tendencias IT**  
-⚡ **Desarrollo proyectos Fullstack, optimizando sistemas y generando impacto**  
-🤝 **Colaboración en equipo y resolución creativa de problemas**  
-🎯 **Transformo la curiosidad en soluciones funcionales y eficientes**
-</p>
+---
+
+- 💻 Apasionado por la tecnología y la innovación  
+- 🌱 Siempre aprendiendo nuevas herramientas y tendencias IT  
+- ⚡ Desarrollo proyectos Fullstack, optimizando sistemas y generando impacto  
+- 🤝 Colaboración en equipo y resolución creativa de problemas  
+- 🎯 Transformo la curiosidad en soluciones funcionales y eficientes
 
 ---
 
