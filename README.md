@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://www.textpro.me/create-3d-glossy-metal-text-effect-online-1050.html?text=LEONEL+GIRETT" alt="LEONEL GIRETT Banner 3D" width="600"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&color=FF5733,FF8C00,FFC300,FF5733&center=true&vCenter=true&width=700&height=90&lines=🚀+LEONEL+GIRETT+🚀" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Técnico%20en%20Programación-E34F26?style=for-the-badge" />
@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-🎯 <b>Apasionado por la tecnología</b>, creativo en resolver problemas complejos y siempre explorando nuevas tendencias IT.  
-💡 <b>Motivado por la innovación</b> y en transformar ideas en proyectos que aporten valor real.  
-🚀 <b>En constante crecimiento</b>, combinando curiosidad, aprendizaje y colaboración para marcar la diferencia.
+💻 Apasionado por la tecnología, creativo en la resolución de problemas y siempre en busca de aprender lo último en IT.  
+🌱 Me motiva explorar nuevas tendencias, optimizar sistemas y colaborar en proyectos que generen impacto.  
+🚀 Creo en el crecimiento constante y en transformar la curiosidad en soluciones innovadoras que marquen la diferencia.
 </p>
 
 ---
@@ -38,4 +38,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-..
