@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hola,+soy+Leonel+Girett+👨‍💻" alt="Leonel Girett animado" />
-</p>
+<h1 align="center">👋 Hola, soy Leonel Girett</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Lover-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-007396?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SysAdmin-Expert-2C8EBB?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  Técnico en Programación y Técnico en Análisis de Sistemas.<br>
+  Actualmente trabajando como Sysadmin.<br>
+  En mis tiempos libres me dedico a capacitarme y aprender nuevas tecnologías.
 </p>
 
 ---
@@ -54,6 +60,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:TU-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=
