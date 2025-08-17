@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&color=FF5733,FF8C00,FFC300,FF5733&center=true&vCenter=true&width=700&height=90&lines=🚀+LEONEL+GIRETT+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&pause=1000&color=FF5733,FF8C00,FFC300,FF5733,DAF7A6&center=true&vCenter=true&width=700&height=90&lines=🚀+LEONEL+GIRETT+🚀;💻+Fullstack+Developer+|+IT+Enthusiast+💡" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Técnico%20en%20Programación-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Técnico%20en%20Análisis%20de%20Sistemas-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sysadmin-47A248?style=for-the-badge" />
+💡 **Apasionado por la tecnología y la innovación**. Transformo ideas en proyectos funcionales.  
+🚀 **Fullstack Developer** con experiencia en Frontend moderno y Backend robusto.  
+🌱 Siempre explorando nuevas herramientas, optimizando sistemas y colaborando en proyectos de impacto.  
+🎯 Enfocado en aprendizaje constante y en convertir la curiosidad en soluciones reales que marquen la diferencia.
 </p>
-
 ---
 
 <p align="center">
