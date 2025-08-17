@@ -8,13 +8,6 @@
 🌱 Siempre explorando nuevas herramientas, optimizando sistemas y colaborando en proyectos de impacto.  
 🎯 Enfocado en aprendizaje constante y en convertir la curiosidad en soluciones reales que marquen la diferencia.
 </p>
----
-
-<p align="center">
-💻 Apasionado por la tecnología, creativo en la resolución de problemas y siempre en busca de aprender lo último en IT.  
-🌱 Me motiva explorar nuevas tendencias, optimizar sistemas y colaborar en proyectos que generen impacto.  
-🚀 Creo en el crecimiento constante y en transformar la curiosidad en soluciones innovadoras que marquen la diferencia.
-</p>
 
 ---
 
